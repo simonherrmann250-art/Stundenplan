@@ -42,10 +42,35 @@ def query_database(database_id: str) -> list[dict]:
 
 
 def find_date_property(properties: dict) -> tuple[str, dict] | None:
-    """Find the first date-type property in a page's properties."""
+    """Use Beginn and Ende as the event start and end."""
+
+    start_prop = properties.get("Beginn")
+
+    if (
+        start_prop
+        and start_prop.get("type") == "date"
+        and start_prop.get("date")
+        and start_prop["date"].get("start")
+    ):
+        date_data = dict(start_prop["date"])
+
+        end_prop = properties.get("Ende")
+
+        if (
+            end_prop
+            and end_prop.get("type") == "date"
+            and end_prop.get("date")
+            and end_prop["date"].get("start")
+        ):
+            date_data["end"] = end_prop["date"]["start"]
+
+        return "Beginn", date_data
+
+    # Fallback for databases using a single date property
     for name, prop in properties.items():
-        if prop["type"] == "date" and prop.get("date"):
+        if prop.get("type") == "date" and prop.get("date"):
             return name, prop["date"]
+
     return None
 
 
