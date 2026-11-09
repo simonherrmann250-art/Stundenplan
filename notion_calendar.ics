@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die Sportwissenschaft
 DTSTART;TZID="UTC+01:00":20270114T131500
 DTEND;TZID="UTC+01:00":20270114T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:bb42285f-871a-4e9a-80f1-1c35b65c9c07@notion2cal
 DESCRIPTION:14-tägige Reihe aus den ersten bekannten Donnerstagen (15.10.
  –10.12.) fortgeführt\; der Nutzer bestätigt den Wiedereinstieg am 07.0
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Sport von Menschen mit Behinderung
 DTSTART:20270106T121500Z
 DTEND:20270106T134500Z
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-8137-a2d3-dae1c9d96c94@notion2cal
 DESCRIPTION:Datum auf ausdrückliche Nutzeranweisung ergänzt. Uhrzeit 13:
  15–14:45 aus der vorhandenen Terminreihe übernommen\, nicht separat fü
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Sport von Menschen mit Behinderung
 DTSTART:20270113T121500Z
 DTEND:20270113T134500Z
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-8160-bf92-cb8304d47a42@notion2cal
 DESCRIPTION:Musterfortschreibung aus der 14-tägigen Reihe (21.10.\, 04.11
  .\, 18.11.\, 02.12.\, 16.12.)\; 30.12. liegt in der Weihnachtspause\, dahe
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Sport von Menschen mit Behinderung
 DTSTART:20270127T121500Z
 DTEND:20270127T134500Z
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-81ef-8425-c0f1c18dc586@notion2cal
 DESCRIPTION:Musterfortschreibung aus der 14-tägigen Reihe (21.10.\, 04.11
  .\, 18.11.\, 02.12.\, 16.12.)\; 30.12. liegt in der Weihnachtspause\, dahe
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Biochemische Grundlagen
 DTSTART;TZID="UTC+01:00":20270128T171500
 DTEND;TZID="UTC+01:00":20270128T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-8132-b291-dcf3f137a9fc@notion2cal
 DESCRIPTION:Donnerstagsfolge aus dem im Nutzerauftrag erkennbaren Wechselr
  hythmus der ersten Wochen bis 06.02.2027 fortgeschrieben\; kein einzelner 
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Öffentliches Recht
 DTSTART;TZID="UTC+01:00":20270201T171500
 DTEND;TZID="UTC+01:00":20270201T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-813c-b92a-d60a7a96585b@notion2cal
 DESCRIPTION:Regelmäßiger Termin aus dem Stundenplanmuster der ersten Woc
  hen bis 06.02.2027 fortgeschrieben\; Weihnachtspause (21.12.–03.01.) ber
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20261112T171500
 DTEND;TZID="UTC+01:00":20261112T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-8141-bd7a-cce750728db7@notion2cal
 DESCRIPTION:Donnerstagsfolge aus dem im Nutzerauftrag erkennbaren Wechselr
  hythmus der ersten Wochen bis 06.02.2027 fortgeschrieben\; kein einzelner 
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Öffentliches Recht
 DTSTART;TZID="UTC+01:00":20270125T171500
 DTEND;TZID="UTC+01:00":20270125T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-8166-86f2-fb9a3a0e861d@notion2cal
 DESCRIPTION:Regelmäßiger Termin aus dem Stundenplanmuster der ersten Woc
  hen bis 06.02.2027 fortgeschrieben\; Weihnachtspause (21.12.–03.01.) ber
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20270204T171500
 DTEND;TZID="UTC+01:00":20270204T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-816b-82e4-fc5b64cb5b49@notion2cal
 DESCRIPTION:Donnerstagsfolge aus dem im Nutzerauftrag erkennbaren Wechselr
  hythmus der ersten Wochen bis 06.02.2027 fortgeschrieben\; kein einzelner 
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20270121T171500
 DTEND;TZID="UTC+01:00":20270121T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-8170-8ead-fc3d34755dd7@notion2cal
 DESCRIPTION:Donnerstagsfolge aus dem im Nutzerauftrag erkennbaren Wechselr
  hythmus der ersten Wochen bis 06.02.2027 fortgeschrieben\; kein einzelner 
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:Sport und Bewegung im sozialen Kontext
 DTSTART;TZID="UTC+01:00":20270201T151500
 DTEND;TZID="UTC+01:00":20270201T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-8179-9c3a-ec77d60438fd@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Sport-und-Bewegung-im-sozialen-Kontext-3f742c
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in das wissenschaftliche Arbeiten
 DTSTART;TZID="UTC+01:00":20270120T111500
 DTEND;TZID="UTC+01:00":20270120T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-817a-93d4-c9710a210b35@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Einf-hrung-in-das-wissenschaftliche-Arbeiten-
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Öffentliches Recht
 DTSTART;TZID="UTC+01:00":20270118T171500
 DTEND;TZID="UTC+01:00":20270118T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-817a-a6e7-c88ebe0ad7aa@notion2cal
 DESCRIPTION:Regelmäßiger Termin aus dem Stundenplanmuster der ersten Woc
  hen bis 06.02.2027 fortgeschrieben\; Weihnachtspause (21.12.–03.01.) ber
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Sport und Bewegung im sozialen Kontext
 DTSTART;TZID="UTC+01:00":20270118T151500
 DTEND;TZID="UTC+01:00":20270118T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-8183-95d3-e0d6165f5efe@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Sport-und-Bewegung-im-sozialen-Kontext-3f742c
@@ -190,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Öffentliches Recht
 DTSTART;TZID="UTC+01:00":20270111T171500
 DTEND;TZID="UTC+01:00":20270111T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-81e3-8fd3-ef3bb1b9d65b@notion2cal
 DESCRIPTION:Regelmäßiger Termin aus dem Stundenplanmuster der ersten Woc
  hen bis 06.02.2027 fortgeschrieben\; Weihnachtspause (21.12.–03.01.) ber
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20261126T171500
 DTEND;TZID="UTC+01:00":20261126T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-81fc-b261-ff48791b4060@notion2cal
 DESCRIPTION:Donnerstagsfolge aus dem im Nutzerauftrag erkennbaren Wechselr
  hythmus der ersten Wochen bis 06.02.2027 fortgeschrieben\; kein einzelner 
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20270107T171500
 DTEND;TZID="UTC+01:00":20270107T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-8100-892d-fd146c5abdfc@notion2cal
 DESCRIPTION:Termin\, Datum und lokale Uhrzeit aus der am 12.10.2026 im Cha
  t bereitgestellten vollständigen Wochenübersicht (04.–08.01.2027). Rau
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die Sportwissenschaft
 DTSTART;TZID="UTC+01:00":20270107T131500
 DTEND;TZID="UTC+01:00":20270107T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-8143-b6e4-dd8e03a06b9f@notion2cal
 DESCRIPTION:Termin\, Datum und lokale Uhrzeit aus der am 12.10.2026 im Cha
  t bereitgestellten vollständigen Wochenübersicht (04.–08.01.2027). Rau
@@ -244,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:Sport und Bewegung im sozialen Kontext
 DTSTART;TZID="UTC+01:00":20270104T151500
 DTEND;TZID="UTC+01:00":20270104T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-814e-ba9f-d88a0640f2c2@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Sport-und-Bewegung-im-sozialen-Kontext-3f742c
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20270106T151500
 DTEND;TZID="UTC+01:00":20270106T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-8173-b437-e85e03a85387@notion2cal
 DESCRIPTION:Termin\, Datum und lokale Uhrzeit aus der am 12.10.2026 im Cha
  t bereitgestellten vollständigen Wochenübersicht (04.–08.01.2027). Rau
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20270106T171500
 DTEND;TZID="UTC+01:00":20270106T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-81a5-b09e-eabd95b533c2@notion2cal
 DESCRIPTION:Termin\, Datum und lokale Uhrzeit aus der am 12.10.2026 im Cha
  t bereitgestellten vollständigen Wochenübersicht (04.–08.01.2027). Rau
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in das wissenschaftliche Arbeiten
 DTSTART;TZID="UTC+01:00":20270106T111500
 DTEND;TZID="UTC+01:00":20270106T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-81bf-847d-f57e4b6f5fba@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Einf-hrung-in-das-wissenschaftliche-Arbeiten-
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Funktionelle Anatomie
 DTSTART;TZID="UTC+01:00":20270106T091500
 DTEND;TZID="UTC+01:00":20270106T104500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-81d8-97ef-e06aa958c033@notion2cal
 DESCRIPTION:Gruppe D
 URL:https://app.notion.com/p/Funktionelle-Anatomie-3f742c8f85e481d897efe06
@@ -302,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:Öffentliches Recht
 DTSTART;TZID="UTC+01:00":20270104T171500
 DTEND;TZID="UTC+01:00":20270104T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-81e3-82a1-e1d0b7a88f71@notion2cal
 DESCRIPTION:Termin\, Datum und lokale Uhrzeit aus der am 12.10.2026 im Cha
  t bereitgestellten vollständigen Wochenübersicht (04.–08.01.2027). Rau
@@ -316,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:Sport von Menschen mit Behinderung
 DTSTART;TZID="UTC+01:00":20261118T131500
 DTEND;TZID="UTC+01:00":20261118T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-811d-af11-dcd84393e281@notion2cal
 DESCRIPTION:Einzeltermin und Uhrzeit aus vorhandenem Eintrag der bisherige
  n Stundenplandatenbank übernommen\; im aktuellen offiziellen Vorlesungsve
@@ -331,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:Sport von Menschen mit Behinderung
 DTSTART;TZID="UTC+01:00":20270203T131500
 DTEND;TZID="UTC+01:00":20270203T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-813e-b3b7-ef9ebc3cf401@notion2cal
 DESCRIPTION:Einzeltermin und Uhrzeit aus vorhandenem Eintrag der bisherige
  n Stundenplandatenbank übernommen\; im aktuellen offiziellen Vorlesungsve
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:Sport von Menschen mit Behinderung
 DTSTART;TZID="UTC+01:00":20261216T131500
 DTEND;TZID="UTC+01:00":20261216T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-8144-89da-e7dea973bfbf@notion2cal
 DESCRIPTION:Einzeltermin und Uhrzeit aus vorhandenem Eintrag der bisherige
  n Stundenplandatenbank übernommen\; im aktuellen offiziellen Vorlesungsve
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:Sport von Menschen mit Behinderung
 DTSTART;TZID="UTC+01:00":20261202T131500
 DTEND;TZID="UTC+01:00":20261202T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-814d-9d2a-e10ad8c57f35@notion2cal
 DESCRIPTION:Einzeltermin und Uhrzeit aus vorhandenem Eintrag der bisherige
  n Stundenplandatenbank übernommen\; im aktuellen offiziellen Vorlesungsve
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20261125T151500
 DTEND;TZID="UTC+01:00":20261125T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-8174-92a9-cc303af43e80@notion2cal
 DESCRIPTION:Einzeltermin und Uhrzeit aus vorhandenem Eintrag der bisherige
  n Stundenplandatenbank übernommen\; im aktuellen offiziellen Vorlesungsve
@@ -391,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Sport von Menschen mit Behinderung
 DTSTART;TZID="UTC+01:00":20270120T131500
 DTEND;TZID="UTC+01:00":20270120T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-817a-8e92-cee2da6c1189@notion2cal
 DESCRIPTION:Einzeltermin und Uhrzeit aus vorhandenem Eintrag der bisherige
  n Stundenplandatenbank übernommen\; im aktuellen offiziellen Vorlesungsve
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20270120T151500
 DTEND;TZID="UTC+01:00":20270120T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-818f-b614-f089a69892df@notion2cal
 DESCRIPTION:Einzeltermin und Uhrzeit aus vorhandenem Eintrag der bisherige
  n Stundenplandatenbank übernommen\; im aktuellen offiziellen Vorlesungsve
@@ -418,25 +418,10 @@ URL:https://app.notion.com/p/Biologische-und-physiologische-Grundlagen-3f7
  42c8f85e4818fb614f089a69892df
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sport von Menschen mit Behinderung
-DTSTART;TZID="UTC+01:00":20261104T131500
-DTEND;TZID="UTC+01:00":20261104T144500
-DTSTAMP:20261102T071016Z
-UID:3f742c8f-85e4-819c-93b3-c08b7916397b@notion2cal
-DESCRIPTION:Einzeltermin und Uhrzeit aus vorhandenem Eintrag der bisherige
- n Stundenplandatenbank übernommen\; im aktuellen offiziellen Vorlesungsve
- rzeichnis nicht einzeln nachprüfbar. Deshalb als ungeprüfter Altbestand 
- markiert. Raum aus Nutzer-Raumliste\; Fakultät Sportwissenschaftliche Fak
- ultät. Offizielle VVZ-Seite: https://www.spowi.uni-leipzig.de/studium/im-
- studium/vorlesungsverzeichnis.
-URL:https://app.notion.com/p/Sport-von-Menschen-mit-Behinderung-3f742c8f85
- e4819c93b3c08b7916397b
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20270127T151500
 DTEND;TZID="UTC+01:00":20270127T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-81b2-9555-fd9998351396@notion2cal
 DESCRIPTION:Einzeltermin und Uhrzeit aus vorhandenem Eintrag der bisherige
  n Stundenplandatenbank übernommen\; im aktuellen offiziellen Vorlesungsve
@@ -451,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20261202T151500
 DTEND;TZID="UTC+01:00":20261202T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-81c9-85f7-e586798d612a@notion2cal
 DESCRIPTION:Einzeltermin und Uhrzeit aus vorhandenem Eintrag der bisherige
  n Stundenplandatenbank übernommen\; im aktuellen offiziellen Vorlesungsve
@@ -466,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20261111T151500
 DTEND;TZID="UTC+01:00":20261111T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-81d8-b000-f555b94449ec@notion2cal
 DESCRIPTION:Einzeltermin und Uhrzeit aus vorhandenem Eintrag der bisherige
  n Stundenplandatenbank übernommen\; im aktuellen offiziellen Vorlesungsve
@@ -481,7 +466,7 @@ BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20261209T151500
 DTEND;TZID="UTC+01:00":20261209T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-81ec-9fad-c59deb949dff@notion2cal
 DESCRIPTION:Einzeltermin und Uhrzeit aus vorhandenem Eintrag der bisherige
  n Stundenplandatenbank übernommen\; im aktuellen offiziellen Vorlesungsve
@@ -496,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20270203T151500
 DTEND;TZID="UTC+01:00":20270203T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f742c8f-85e4-81ed-a87b-cc81307ef86a@notion2cal
 DESCRIPTION:Einzeltermin und Uhrzeit aus vorhandenem Eintrag der bisherige
  n Stundenplandatenbank übernommen\; im aktuellen offiziellen Vorlesungsve
@@ -508,24 +493,10 @@ URL:https://app.notion.com/p/Biologische-und-physiologische-Grundlagen-3f7
  42c8f85e481eda87bcc81307ef86a
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Biologische und physiologische Grundlagen
-DTSTART;TZID="UTC+01:00":20261104T151500
-DTEND;TZID="UTC+01:00":20261104T164500
-DTSTAMP:20261102T071016Z
-UID:3f742c8f-85e4-81fb-9353-d4ebab1b71f4@notion2cal
-DESCRIPTION:Datum und lokale Uhrzeit ausdrücklich im Nutzerauftrag genann
- t\; Raum aus bereitgestellter Raumzuordnung. Die alte Datenbank dient nur 
- als zusätzlicher Beleg. Fakultätszuordnung zum Lehrangebot der Sportwiss
- enschaftlichen Fakultät\; offizielle VVZ-Seite: https://www.spowi.uni-lei
- pzig.de/studium/im-studium/vorlesungsverzeichnis.
-URL:https://app.notion.com/p/Biologische-und-physiologische-Grundlagen-3f7
- 42c8f85e481fb9353d4ebab1b71f4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sportgeschichte & Sportsoziologie
 DTSTART;TZID="UTC+01:00":20270122T111500
 DTEND;TZID="UTC+01:00":20270122T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8100-9279-e69360904b56@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -539,7 +510,7 @@ BEGIN:VEVENT
 SUMMARY:Funktionelle Anatomie
 DTSTART;TZID="UTC+01:00":20261111T091500
 DTEND;TZID="UTC+01:00":20261111T104500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8101-b163-e1d7f7f2b3f6@notion2cal
 DESCRIPTION:Gruppe D
 URL:https://app.notion.com/p/Funktionelle-Anatomie-3f642c8f85e48101b163e1d
@@ -549,7 +520,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die Sportwissenschaft
 DTSTART;TZID="UTC+01:00":20261126T131500
 DTEND;TZID="UTC+01:00":20261126T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8102-8e59-e2939a9d90ec@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -563,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:Sportgeschichte & Sportsoziologie
 DTSTART;TZID="UTC+01:00":20270129T111500
 DTEND;TZID="UTC+01:00":20270129T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8103-bc13-f3ca40396003@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -577,7 +548,7 @@ BEGIN:VEVENT
 SUMMARY:Sportgeschichte & Sportsoziologie
 DTSTART;TZID="UTC+01:00":20270205T111500
 DTEND;TZID="UTC+01:00":20270205T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8109-ba5b-cd698e12e3fc@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -591,7 +562,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in das wissenschaftliche Arbeiten
 DTSTART;TZID="UTC+01:00":20261209T111500
 DTEND;TZID="UTC+01:00":20261209T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8115-a223-e63baa0a8ef6@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Einf-hrung-in-das-wissenschaftliche-Arbeiten-
@@ -601,7 +572,7 @@ BEGIN:VEVENT
 SUMMARY:Sportgeschichte & Sportsoziologie
 DTSTART;TZID="UTC+01:00":20270115T111500
 DTEND;TZID="UTC+01:00":20270115T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-811c-975c-c0828b0980f5@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -615,27 +586,17 @@ BEGIN:VEVENT
 SUMMARY:Einführung in das wissenschaftliche Arbeiten
 DTSTART;TZID="UTC+01:00":20261111T111500
 DTEND;TZID="UTC+01:00":20261111T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-811e-bfd3-d89e6780c5d3@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Einf-hrung-in-das-wissenschaftliche-Arbeiten-
  3f642c8f85e4811ebfd3d89e6780c5d3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Funktionelle Anatomie
-DTSTART;TZID="UTC+01:00":20261104T091500
-DTEND;TZID="UTC+01:00":20261104T104500
-DTSTAMP:20261102T071016Z
-UID:3f642c8f-85e4-8126-97ca-d92773c34dfd@notion2cal
-DESCRIPTION:Gruppe D
-URL:https://app.notion.com/p/Funktionelle-Anatomie-3f642c8f85e4812697cad92
- 773c34dfd
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sport und Bewegung im sozialen Kontext
 DTSTART;TZID="UTC+01:00":20261207T151500
 DTEND;TZID="UTC+01:00":20261207T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8129-9c93-ebe3268a36bd@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Sport-und-Bewegung-im-sozialen-Kontext-3f642c
@@ -645,7 +606,7 @@ BEGIN:VEVENT
 SUMMARY:Funktionelle Anatomie
 DTSTART;TZID="UTC+01:00":20261216T091500
 DTEND;TZID="UTC+01:00":20261216T104500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8138-9c5c-e894d1a8f09a@notion2cal
 DESCRIPTION:Gruppe D
 URL:https://app.notion.com/p/Funktionelle-Anatomie-3f642c8f85e481389c5ce89
@@ -655,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20261118T151500
 DTEND;TZID="UTC+01:00":20261118T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-813e-9c1d-fed93dc8822a@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -669,7 +630,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in das wissenschaftliche Arbeiten
 DTSTART;TZID="UTC+01:00":20270127T111500
 DTEND;TZID="UTC+01:00":20270127T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8142-8698-c7f1209f4479@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Einf-hrung-in-das-wissenschaftliche-Arbeiten-
@@ -679,7 +640,7 @@ BEGIN:VEVENT
 SUMMARY:Sportgeschichte & Sportsoziologie
 DTSTART;TZID="UTC+01:00":20261120T111500
 DTEND;TZID="UTC+01:00":20261120T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8142-9e05-d5ad3a2a06f8@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -693,7 +654,7 @@ BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20270113T151500
 DTEND;TZID="UTC+01:00":20270113T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8149-94f4-c498e186986e@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -707,7 +668,7 @@ BEGIN:VEVENT
 SUMMARY:Sport und Bewegung im sozialen Kontext
 DTSTART;TZID="UTC+01:00":20261109T151500
 DTEND;TZID="UTC+01:00":20261109T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8149-badd-f8faae9433d2@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Sport-und-Bewegung-im-sozialen-Kontext-3f642c
@@ -717,7 +678,7 @@ BEGIN:VEVENT
 SUMMARY:Sportgeschichte & Sportsoziologie
 DTSTART;TZID="UTC+01:00":20261204T111500
 DTEND;TZID="UTC+01:00":20261204T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-814d-a72b-f3bc98a5f909@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -729,19 +690,9 @@ URL:https://app.notion.com/p/Sportgeschichte-Sportsoziologie-3f642c8f85e48
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Einführung in das wissenschaftliche Arbeiten
-DTSTART;TZID="UTC+01:00":20261104T111500
-DTEND;TZID="UTC+01:00":20261104T124500
-DTSTAMP:20261102T071016Z
-UID:3f642c8f-85e4-815c-b4f7-d6aa0ceac0e6@notion2cal
-DESCRIPTION:Gruppe B
-URL:https://app.notion.com/p/Einf-hrung-in-das-wissenschaftliche-Arbeiten-
- 3f642c8f85e4815cb4f7d6aa0ceac0e6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Einführung in das wissenschaftliche Arbeiten
 DTSTART;TZID="UTC+01:00":20261125T111500
 DTEND;TZID="UTC+01:00":20261125T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-815f-9085-fcfd9605bdf4@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Einf-hrung-in-das-wissenschaftliche-Arbeiten-
@@ -751,7 +702,7 @@ BEGIN:VEVENT
 SUMMARY:Funktionelle Anatomie
 DTSTART;TZID="UTC+01:00":20270120T091500
 DTEND;TZID="UTC+01:00":20270120T104500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8164-895a-c68782a07f22@notion2cal
 DESCRIPTION:Gruppe D
 URL:https://app.notion.com/p/Funktionelle-Anatomie-3f642c8f85e48164895ac68
@@ -761,7 +712,7 @@ BEGIN:VEVENT
 SUMMARY:Funktionelle Anatomie
 DTSTART;TZID="UTC+01:00":20261202T091500
 DTEND;TZID="UTC+01:00":20261202T104500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8165-bc5b-f54e30237411@notion2cal
 DESCRIPTION:Gruppe D
 URL:https://app.notion.com/p/Funktionelle-Anatomie-3f642c8f85e48165bc5bf54
@@ -771,7 +722,7 @@ BEGIN:VEVENT
 SUMMARY:Sportgeschichte & Sportsoziologie
 DTSTART;TZID="UTC+01:00":20261211T111500
 DTEND;TZID="UTC+01:00":20261211T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-816a-a076-f0b050d70cd5@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -785,7 +736,7 @@ BEGIN:VEVENT
 SUMMARY:Funktionelle Anatomie
 DTSTART;TZID="UTC+01:00":20270127T091500
 DTEND;TZID="UTC+01:00":20270127T104500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-816d-bef7-c2b94f0c5cc8@notion2cal
 DESCRIPTION:Gruppe D
 URL:https://app.notion.com/p/Funktionelle-Anatomie-3f642c8f85e4816dbef7c2b
@@ -795,7 +746,7 @@ BEGIN:VEVENT
 SUMMARY:Sportgeschichte & Sportsoziologie (Selbststudium?)
 DTSTART;TZID="UTC+01:00":20261218T111500
 DTEND;TZID="UTC+01:00":20261218T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8170-9dff-f0c163c39c66@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -809,7 +760,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in das wissenschaftliche Arbeiten
 DTSTART;TZID="UTC+01:00":20261118T111500
 DTEND;TZID="UTC+01:00":20261118T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8171-962b-e16305f5c0af@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Einf-hrung-in-das-wissenschaftliche-Arbeiten-
@@ -819,7 +770,7 @@ BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20261216T151500
 DTEND;TZID="UTC+01:00":20261216T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8172-988a-c0a4da672fae@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -833,7 +784,7 @@ BEGIN:VEVENT
 SUMMARY:Funktionelle Anatomie
 DTSTART;TZID="UTC+01:00":20261209T091500
 DTEND;TZID="UTC+01:00":20261209T104500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8179-ba81-ed5d46d8b3f4@notion2cal
 DESCRIPTION:Gruppe D
 URL:https://app.notion.com/p/Funktionelle-Anatomie-3f642c8f85e48179ba81ed5
@@ -843,7 +794,7 @@ BEGIN:VEVENT
 SUMMARY:Funktionelle Anatomie
 DTSTART;TZID="UTC+01:00":20270203T091500
 DTEND;TZID="UTC+01:00":20270203T104500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-817d-a535-d828fb9f061d@notion2cal
 DESCRIPTION:Gruppe D
 URL:https://app.notion.com/p/Funktionelle-Anatomie-3f642c8f85e4817da535d82
@@ -853,7 +804,7 @@ BEGIN:VEVENT
 SUMMARY:Sportgeschichte & Sportsoziologie
 DTSTART;TZID="UTC+01:00":20261127T111500
 DTEND;TZID="UTC+01:00":20261127T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8183-94da-deb8b48ea175@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -867,7 +818,7 @@ BEGIN:VEVENT
 SUMMARY:Funktionelle Anatomie
 DTSTART;TZID="UTC+01:00":20261118T091500
 DTEND;TZID="UTC+01:00":20261118T104500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8184-a737-f1313a6f429e@notion2cal
 DESCRIPTION:Gruppe D
 URL:https://app.notion.com/p/Funktionelle-Anatomie-3f642c8f85e48184a737f13
@@ -875,9 +826,9 @@ URL:https://app.notion.com/p/Funktionelle-Anatomie-3f642c8f85e48184a737f13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sportgeschichte & Sportsoziologie
-DTSTART;TZID="UTC+01:00":20261113T111500
-DTEND;TZID="UTC+01:00":20261113T124500
-DTSTAMP:20261102T071016Z
+DTSTART;TZID="UTC+01:00":20261113T110000
+DTEND;TZID="UTC+01:00":20261113T123000
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8189-ae51-dff6e569733c@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -891,7 +842,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in das wissenschaftliche Arbeiten
 DTSTART;TZID="UTC+01:00":20261216T111500
 DTEND;TZID="UTC+01:00":20261216T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-819b-9fd9-d2145ad4b97e@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Einf-hrung-in-das-wissenschaftliche-Arbeiten-
@@ -901,7 +852,7 @@ BEGIN:VEVENT
 SUMMARY:Biochemische Grundlagen
 DTSTART;TZID="UTC+01:00":20270114T171500
 DTEND;TZID="UTC+01:00":20270114T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81a1-8788-feefbd58c0b3@notion2cal
 DESCRIPTION:Die alte Datenbank führte diesen Donnerstag als Biologische u
  nd physiologische Grundlagen\, aber mit abgeleiteter Zuordnung. Nach dem v
@@ -915,7 +866,7 @@ BEGIN:VEVENT
 SUMMARY:Sport und Bewegung im sozialen Kontext
 DTSTART;TZID="UTC+01:00":20261123T151500
 DTEND;TZID="UTC+01:00":20261123T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81a2-8658-e39aa5b2b228@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Sport-und-Bewegung-im-sozialen-Kontext-3f642c
@@ -925,7 +876,7 @@ BEGIN:VEVENT
 SUMMARY:Biologische und physiologische Grundlagen
 DTSTART;TZID="UTC+01:00":20261210T171500
 DTEND;TZID="UTC+01:00":20261210T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81b6-8edd-d5fdc0e55979@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -938,23 +889,10 @@ URL:https://app.notion.com/p/Biologische-und-physiologische-Grundlagen-3f6
  42c8f85e481b68eddd5fdc0e55979
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sportgeschichte & Sportsoziologie
-DTSTART;TZID="UTC+01:00":20261106T111500
-DTEND;TZID="UTC+01:00":20261106T124500
-DTSTAMP:20261102T071016Z
-UID:3f642c8f-85e4-81b9-8c1a-e20351dd0a2f@notion2cal
-DESCRIPTION:Datum und Zeit sind in den Nutzerangaben im beigefügten Auftr
- ag ausdrücklich genannt. Raum aus der bereitgestellten Nutzer-Raumliste 
- übernommen. Quelle verweist auf den älteren Notion-Stundenplan-Eintrag u
- nd ist kein unabhängiger offizieller Nachweis.
-URL:https://app.notion.com/p/Sportgeschichte-Sportsoziologie-3f642c8f85e48
- 1b98c1ae20351dd0a2f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Einführung in das wissenschaftliche Arbeiten
 DTSTART;TZID="UTC+01:00":20261202T111500
 DTEND;TZID="UTC+01:00":20261202T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81c3-b7bb-c04f0031dad5@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Einf-hrung-in-das-wissenschaftliche-Arbeiten-
@@ -964,7 +902,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die Sportwissenschaft
 DTSTART;TZID="UTC+01:00":20261210T131500
 DTEND;TZID="UTC+01:00":20261210T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81ca-acad-fc41dd99c2d4@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -978,7 +916,7 @@ BEGIN:VEVENT
 SUMMARY:Sportgeschichte & Sportsoziologie
 DTSTART;TZID="UTC+01:00":20270108T111500
 DTEND;TZID="UTC+01:00":20270108T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81d7-ac3a-e8fc4aa35c80@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -992,7 +930,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in das wissenschaftliche Arbeiten
 DTSTART;TZID="UTC+01:00":20270203T111500
 DTEND;TZID="UTC+01:00":20270203T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81e6-8e7b-f26565864786@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Einf-hrung-in-das-wissenschaftliche-Arbeiten-
@@ -1002,7 +940,7 @@ BEGIN:VEVENT
 SUMMARY:Funktionelle Anatomie
 DTSTART;TZID="UTC+01:00":20261125T091500
 DTEND;TZID="UTC+01:00":20261125T104500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81e7-9871-f1b0cbfb6d9a@notion2cal
 DESCRIPTION:Gruppe D
 URL:https://app.notion.com/p/Funktionelle-Anatomie-3f642c8f85e481e79871f1b
@@ -1012,7 +950,7 @@ BEGIN:VEVENT
 SUMMARY:Funktionelle Anatomie
 DTSTART;TZID="UTC+01:00":20270113T091500
 DTEND;TZID="UTC+01:00":20270113T104500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81f2-901a-fd37b3eac75e@notion2cal
 DESCRIPTION:Gruppe D
 URL:https://app.notion.com/p/Funktionelle-Anatomie-3f642c8f85e481f2901afd3
@@ -1022,7 +960,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in das wissenschaftliche Arbeiten
 DTSTART;TZID="UTC+01:00":20270113T111500
 DTEND;TZID="UTC+01:00":20270113T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81f6-9996-d035b52ca879@notion2cal
 DESCRIPTION:Gruppe B
 URL:https://app.notion.com/p/Einf-hrung-in-das-wissenschaftliche-Arbeiten-
@@ -1032,7 +970,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20261125T171500
 DTEND;TZID="UTC+01:00":20261125T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8106-bb04-e68ab39af31d@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1046,7 +984,7 @@ BEGIN:VEVENT
 SUMMARY:Öffentliches Recht
 DTSTART;TZID="UTC+01:00":20261207T171500
 DTEND;TZID="UTC+01:00":20261207T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-810b-a4d0-f0f5e86e8a94@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1062,7 +1000,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die VWL
 DTSTART;TZID="UTC+01:00":20270128T111500
 DTEND;TZID="UTC+01:00":20270128T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8111-ace0-fd415920c398@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1076,7 +1014,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die VWL
 DTSTART;TZID="UTC+01:00":20261112T111500
 DTEND;TZID="UTC+01:00":20261112T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8112-907a-ebf305467d5b@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1090,7 +1028,7 @@ BEGIN:VEVENT
 SUMMARY:Öffentliches Recht
 DTSTART;TZID="UTC+01:00":20261116T171500
 DTEND;TZID="UTC+01:00":20261116T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8115-95db-e58f20d59576@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1106,7 +1044,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die BWL
 DTSTART;TZID="UTC+01:00":20270105T151500
 DTEND;TZID="UTC+01:00":20270105T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8117-9754-fc9174d6c2ce@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1120,7 +1058,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die BWL
 DTSTART;TZID="UTC+01:00":20270119T151500
 DTEND;TZID="UTC+01:00":20270119T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-811b-9900-d9b80e1870d3@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1134,7 +1072,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20270120T171500
 DTEND;TZID="UTC+01:00":20270120T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-811e-9181-d1f91038f03e@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1148,7 +1086,7 @@ BEGIN:VEVENT
 SUMMARY:Biochemische Grundlagen
 DTSTART;TZID="UTC+01:00":20261203T171500
 DTEND;TZID="UTC+01:00":20261203T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-811f-a679-e1ba6e78c36e@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1164,7 +1102,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20270119T111500
 DTEND;TZID="UTC+01:00":20270119T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8121-9ec4-e71f47f92e4f@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1178,7 +1116,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20270127T171500
 DTEND;TZID="UTC+01:00":20270127T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8124-b534-ea63fcbe0a3f@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1192,7 +1130,7 @@ BEGIN:VEVENT
 SUMMARY:Öffentliches Recht
 DTSTART;TZID="UTC+01:00":20261109T171500
 DTEND;TZID="UTC+01:00":20261109T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-812c-909b-f946570c59fa@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1208,7 +1146,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20261201T111500
 DTEND;TZID="UTC+01:00":20261201T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-812c-9a7d-c1b9dd4c4ddd@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1222,7 +1160,7 @@ BEGIN:VEVENT
 SUMMARY:Öffentliches Recht
 DTSTART;TZID="UTC+01:00":20261123T171500
 DTEND;TZID="UTC+01:00":20261123T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8130-90a6-f58219243c39@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1235,23 +1173,10 @@ URL:https://app.notion.com/p/ffentliches-Recht-3f642c8f85e4813090a6f582192
  43c39
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Einführung in die VWL
-DTSTART;TZID="UTC+01:00":20261105T111500
-DTEND;TZID="UTC+01:00":20261105T124500
-DTSTAMP:20261102T071016Z
-UID:3f642c8f-85e4-8135-a15f-e981a20564f1@notion2cal
-DESCRIPTION:Datum und Zeit sind in den Nutzerangaben im beigefügten Auftr
- ag ausdrücklich genannt. Raum aus der bereitgestellten Nutzer-Raumliste 
- übernommen. Quelle verweist auf den älteren Notion-Stundenplan-Eintrag u
- nd ist kein unabhängiger offizieller Nachweis.
-URL:https://app.notion.com/p/Einf-hrung-in-die-VWL-3f642c8f85e48135a15fe98
- 1a20564f1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bürgerliches Recht
 DTSTART;TZID="UTC+01:00":20270201T131500
 DTEND;TZID="UTC+01:00":20270201T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-813a-8374-fa170d0746c8@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1262,25 +1187,10 @@ URL:https://app.notion.com/p/B-rgerliches-Recht-3f642c8f85e4813a8374fa170d
  0746c8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Öffentliches Recht
-DTSTART;TZID="UTC+01:00":20261102T171500
-DTEND;TZID="UTC+01:00":20261102T184500
-DTSTAMP:20261102T071016Z
-UID:3f642c8f-85e4-813c-a459-f9c0badd0907@notion2cal
-DESCRIPTION:Datum und Zeit sind in den Nutzerangaben im beigefügten Auftr
- ag ausdrücklich genannt. Raum aus der bereitgestellten Nutzer-Raumliste 
- übernommen. Der Gruppenwert im Altbestand war ein Prüfkommentar statt ei
- ner Gruppenbezeichnung\; Gruppe daher ungeklärt. Quelle verweist auf den 
- älteren Notion-Stundenplan-Eintrag und ist kein unabhängiger offizieller
-  Nachweis.
-URL:https://app.notion.com/p/ffentliches-Recht-3f642c8f85e4813ca459f9c0bad
- d0907
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Biochemische Grundlagen
 DTSTART;TZID="UTC+01:00":20261217T171500
 DTEND;TZID="UTC+01:00":20261217T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-813c-b720-de4307d975bf@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1296,7 +1206,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20261110T111500
 DTEND;TZID="UTC+01:00":20261110T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8145-bb75-caadbd97491c@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1310,7 +1220,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20261209T171500
 DTEND;TZID="UTC+01:00":20261209T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8148-ad2f-c9a89f0f2f95@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1324,7 +1234,7 @@ BEGIN:VEVENT
 SUMMARY:Mathematisch-naturwissenschaftliche Grundlagen
 DTSTART;TZID="UTC+01:00":20270125T111500
 DTEND;TZID="UTC+01:00":20270125T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-814f-b144-dcc5e9b39164@notion2cal
 DESCRIPTION:Gruppe D
 URL:https://app.notion.com/p/Mathematisch-naturwissenschaftliche-Grundlage
@@ -1334,7 +1244,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die VWL
 DTSTART;TZID="UTC+01:00":20261126T111500
 DTEND;TZID="UTC+01:00":20261126T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8152-ba53-e97763dd79cd@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1348,7 +1258,7 @@ BEGIN:VEVENT
 SUMMARY:Bürgerliches Recht
 DTSTART;TZID="UTC+01:00":20261214T131500
 DTEND;TZID="UTC+01:00":20261214T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8152-bd5e-f10086e2262f@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1359,33 +1269,10 @@ URL:https://app.notion.com/p/B-rgerliches-Recht-3f642c8f85e48152bd5ef10086
  e2262f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mathematisch-naturwissenschaftliche Grundlagen
-DTSTART;TZID="UTC+01:00":20261102T111500
-DTEND;TZID="UTC+01:00":20261102T124500
-DTSTAMP:20261102T071016Z
-UID:3f642c8f-85e4-8153-bc94-c4a1febc33b0@notion2cal
-DESCRIPTION:Gruppe D
-URL:https://app.notion.com/p/Mathematisch-naturwissenschaftliche-Grundlage
- n-3f642c8f85e48153bc94c4a1febc33b0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Einführung in die BWL
-DTSTART;TZID="UTC+01:00":20261103T151500
-DTEND;TZID="UTC+01:00":20261103T164500
-DTSTAMP:20261102T071016Z
-UID:3f642c8f-85e4-8156-904b-fc329966c160@notion2cal
-DESCRIPTION:Datum und Zeit sind in den Nutzerangaben im beigefügten Auftr
- ag ausdrücklich genannt. Raum aus der bereitgestellten Nutzer-Raumliste 
- übernommen. Quelle verweist auf den älteren Notion-Stundenplan-Eintrag u
- nd ist kein unabhängiger offizieller Nachweis.
-URL:https://app.notion.com/p/Einf-hrung-in-die-BWL-3f642c8f85e48156904bfc3
- 29966c160
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Einführung in die BWL
 DTSTART;TZID="UTC+01:00":20270202T151500
 DTEND;TZID="UTC+01:00":20270202T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-815e-b034-c0a292ce31b2@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1399,7 +1286,7 @@ BEGIN:VEVENT
 SUMMARY:Bürgerliches Recht
 DTSTART;TZID="UTC+01:00":20261207T131500
 DTEND;TZID="UTC+01:00":20261207T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8161-8486-c15d30b74a62@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1413,7 +1300,7 @@ BEGIN:VEVENT
 SUMMARY:Mathematisch-naturwissenschaftliche Grundlagen
 DTSTART;TZID="UTC+01:00":20261130T111500
 DTEND;TZID="UTC+01:00":20261130T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8167-b892-db40379e52cd@notion2cal
 DESCRIPTION:Gruppe D
 URL:https://app.notion.com/p/Mathematisch-naturwissenschaftliche-Grundlage
@@ -1423,7 +1310,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die BWL
 DTSTART;TZID="UTC+01:00":20261215T151500
 DTEND;TZID="UTC+01:00":20261215T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-816b-bb34-dae3184b944f@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1437,7 +1324,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20261215T111500
 DTEND;TZID="UTC+01:00":20261215T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-816c-a643-c3bccdda50ac@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1451,7 +1338,7 @@ BEGIN:VEVENT
 SUMMARY:Bürgerliches Recht
 DTSTART;TZID="UTC+01:00":20261109T131500
 DTEND;TZID="UTC+01:00":20261109T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-816c-bb8d-f6cdcbc3faa0@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1465,7 +1352,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die VWL
 DTSTART;TZID="UTC+01:00":20261203T111500
 DTEND;TZID="UTC+01:00":20261203T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-816e-a816-e3d3fefb87ea@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1479,7 +1366,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die VWL
 DTSTART;TZID="UTC+01:00":20261119T111500
 DTEND;TZID="UTC+01:00":20261119T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-816e-b62c-f94dba427779@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1493,7 +1380,7 @@ BEGIN:VEVENT
 SUMMARY:Bürgerliches Recht
 DTSTART;TZID="UTC+01:00":20261130T131500
 DTEND;TZID="UTC+01:00":20261130T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8176-ae26-c30abb59dc60@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1507,7 +1394,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20270126T111500
 DTEND;TZID="UTC+01:00":20270126T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8178-b858-d8ce34d1cd6d@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1521,7 +1408,7 @@ BEGIN:VEVENT
 SUMMARY:Bürgerliches Recht
 DTSTART;TZID="UTC+01:00":20270104T131500
 DTEND;TZID="UTC+01:00":20270104T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-817a-b458-d0ebe05eafa1@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1535,7 +1422,7 @@ BEGIN:VEVENT
 SUMMARY:Mathematisch-naturwissenschaftliche Grundlagen
 DTSTART;TZID="UTC+01:00":20270111T111500
 DTEND;TZID="UTC+01:00":20270111T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8187-8e4f-e875121122f3@notion2cal
 DESCRIPTION:Gruppe D
 URL:https://app.notion.com/p/Mathematisch-naturwissenschaftliche-Grundlage
@@ -1545,7 +1432,7 @@ BEGIN:VEVENT
 SUMMARY:Bürgerliches Recht
 DTSTART;TZID="UTC+01:00":20270111T131500
 DTEND;TZID="UTC+01:00":20270111T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8187-a140-dce15bdfe3a7@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1559,7 +1446,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die VWL
 DTSTART;TZID="UTC+01:00":20270121T111500
 DTEND;TZID="UTC+01:00":20270121T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8187-a763-f115ba2c71c0@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1573,7 +1460,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die VWL
 DTSTART;TZID="UTC+01:00":20261210T111500
 DTEND;TZID="UTC+01:00":20261210T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-8187-a852-d39d09bc52b7@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1587,7 +1474,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die VWL
 DTSTART;TZID="UTC+01:00":20270107T111500
 DTEND;TZID="UTC+01:00":20270107T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-818a-9d25-c2136041a2f6@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1601,7 +1488,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die BWL
 DTSTART;TZID="UTC+01:00":20261208T151500
 DTEND;TZID="UTC+01:00":20261208T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-818d-a14e-df3ba7a07d27@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1615,7 +1502,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die VWL
 DTSTART;TZID="UTC+01:00":20270204T111500
 DTEND;TZID="UTC+01:00":20270204T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-819a-98ee-f0e57e6a9de4@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1629,7 +1516,7 @@ BEGIN:VEVENT
 SUMMARY:Öffentliches Recht
 DTSTART;TZID="UTC+01:00":20261130T171500
 DTEND;TZID="UTC+01:00":20261130T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-819c-84ae-f77b7bc1bfdc@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1645,7 +1532,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die BWL
 DTSTART;TZID="UTC+01:00":20261124T151500
 DTEND;TZID="UTC+01:00":20261124T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-819e-8fb2-ce8fdc4d7875@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1659,7 +1546,7 @@ BEGIN:VEVENT
 SUMMARY:Mathematisch-naturwissenschaftliche Grundlagen
 DTSTART;TZID="UTC+01:00":20261214T111500
 DTEND;TZID="UTC+01:00":20261214T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-819f-af09-eb49e06c0fa9@notion2cal
 DESCRIPTION:Gruppe D
 URL:https://app.notion.com/p/Mathematisch-naturwissenschaftliche-Grundlage
@@ -1669,7 +1556,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die BWL
 DTSTART;TZID="UTC+01:00":20261201T151500
 DTEND;TZID="UTC+01:00":20261201T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81a1-97f8-df7d79bcf3f8@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1683,7 +1570,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die Sportwissenschaft
 DTSTART;TZID="UTC+01:00":20261112T131500
 DTEND;TZID="UTC+01:00":20261112T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81a5-b97e-f4165a0fed67@notion2cal
 DESCRIPTION:Datum und Zeit sind in den Nutzerangaben im beigefügten Auftr
  ag ausdrücklich genannt. Raum aus der bereitgestellten Nutzer-Raumliste 
@@ -1694,22 +1581,9 @@ URL:https://app.notion.com/p/Einf-hrung-in-die-Sportwissenschaft-3f642c8f8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
-DTSTART;TZID="UTC+01:00":20261104T171500
-DTEND;TZID="UTC+01:00":20261104T184500
-DTSTAMP:20261102T071016Z
-UID:3f642c8f-85e4-81a6-b383-dd2ce92071a2@notion2cal
-DESCRIPTION:Datum und Zeit sind in den Nutzerangaben im beigefügten Auftr
- ag ausdrücklich genannt. Raum aus der bereitgestellten Nutzer-Raumliste 
- übernommen. Quelle verweist auf den älteren Notion-Stundenplan-Eintrag u
- nd ist kein unabhängiger offizieller Nachweis.
-URL:https://app.notion.com/p/Technik-des-Rechnungswesens-3f642c8f85e481a6b
- 383dd2ce92071a2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20261208T111500
 DTEND;TZID="UTC+01:00":20261208T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81ad-8851-d78208e768e9@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1723,7 +1597,7 @@ BEGIN:VEVENT
 SUMMARY:Bürgerliches Recht
 DTSTART;TZID="UTC+01:00":20270118T131500
 DTEND;TZID="UTC+01:00":20270118T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81b2-bc58-d99745ff4821@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1737,7 +1611,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die VWL
 DTSTART;TZID="UTC+01:00":20261217T111500
 DTEND;TZID="UTC+01:00":20261217T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81b8-82f4-e672722721ae@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1751,7 +1625,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20270105T111500
 DTEND;TZID="UTC+01:00":20270105T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81ba-90a7-f68c5f9a4b83@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1765,7 +1639,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20270202T111500
 DTEND;TZID="UTC+01:00":20270202T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81be-9a15-fd1544268d5a@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1776,23 +1650,10 @@ URL:https://app.notion.com/p/Technik-des-Rechnungswesens-3f642c8f85e481be9
  a15fd1544268d5a
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Technik des Rechnungswesens
-DTSTART;TZID="UTC+01:00":20261103T111500
-DTEND;TZID="UTC+01:00":20261103T124500
-DTSTAMP:20261102T071016Z
-UID:3f642c8f-85e4-81bf-b3ea-c3e23edd1b54@notion2cal
-DESCRIPTION:Datum und Zeit sind in den Nutzerangaben im beigefügten Auftr
- ag ausdrücklich genannt. Raum aus der bereitgestellten Nutzer-Raumliste 
- übernommen. Quelle verweist auf den älteren Notion-Stundenplan-Eintrag u
- nd ist kein unabhängiger offizieller Nachweis.
-URL:https://app.notion.com/p/Technik-des-Rechnungswesens-3f642c8f85e481bfb
- 3eac3e23edd1b54
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Biochemische Grundlagen
 DTSTART;TZID="UTC+01:00":20261119T171500
 DTEND;TZID="UTC+01:00":20261119T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81c1-a77b-f3069f2bb874@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1808,7 +1669,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20261202T171500
 DTEND;TZID="UTC+01:00":20261202T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81c8-b7c7-d5d1c9df9477@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1822,7 +1683,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20270203T171500
 DTEND;TZID="UTC+01:00":20270203T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81ce-a75b-d9bf957b03ef@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1836,7 +1697,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20270113T171500
 DTEND;TZID="UTC+01:00":20270113T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81d6-abe1-cdd32071f096@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1850,7 +1711,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20261118T171500
 DTEND;TZID="UTC+01:00":20261118T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81d7-8db4-f9e40ef19e90@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1864,7 +1725,7 @@ BEGIN:VEVENT
 SUMMARY:Bürgerliches Recht
 DTSTART;TZID="UTC+01:00":20261123T131500
 DTEND;TZID="UTC+01:00":20261123T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81d8-82c4-f2aa1b823ecf@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1878,7 +1739,7 @@ BEGIN:VEVENT
 SUMMARY:Bürgerliches Recht
 DTSTART;TZID="UTC+01:00":20261116T131500
 DTEND;TZID="UTC+01:00":20261116T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81da-8e1b-f8ac0fa557ed@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1892,7 +1753,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20261124T111500
 DTEND;TZID="UTC+01:00":20261124T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81dc-9328-e8953426d903@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1906,7 +1767,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20261117T111500
 DTEND;TZID="UTC+01:00":20261117T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81df-9add-cc47a3452fb7@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1920,7 +1781,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die BWL
 DTSTART;TZID="UTC+01:00":20261110T151500
 DTEND;TZID="UTC+01:00":20261110T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81df-a589-d07c4d839d21@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1934,7 +1795,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die Sportwissenschaft
 DTSTART;TZID="UTC+01:00":20270204T131500
 DTEND;TZID="UTC+01:00":20270204T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81e3-89f7-c976d5bc3c02@notion2cal
 DESCRIPTION:14-tägige Reihe aus den ersten bekannten Donnerstagen (15.10.
  –10.12.) fortgeführt\; der Nutzer bestätigt den Wiedereinstieg am 07.0
@@ -1947,7 +1808,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die VWL
 DTSTART;TZID="UTC+01:00":20270114T111500
 DTEND;TZID="UTC+01:00":20270114T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81e5-916a-defbbd2dedab@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -1958,38 +1819,10 @@ URL:https://app.notion.com/p/Einf-hrung-in-die-VWL-3f642c8f85e481e5916adef
  bbd2dedab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bürgerliches Recht
-DTSTART;TZID="UTC+01:00":20261102T131500
-DTEND;TZID="UTC+01:00":20261102T144500
-DTSTAMP:20261102T071016Z
-UID:3f642c8f-85e4-81e6-8667-f2346eee8110@notion2cal
-DESCRIPTION:Datum und Zeit sind in den Nutzerangaben im beigefügten Auftr
- ag ausdrücklich genannt. Raum aus der bereitgestellten Nutzer-Raumliste 
- übernommen. Quelle verweist auf den älteren Notion-Stundenplan-Eintrag u
- nd ist kein unabhängiger offizieller Nachweis.
-URL:https://app.notion.com/p/B-rgerliches-Recht-3f642c8f85e481e68667f2346e
- ee8110
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemische Grundlagen
-DTSTART;TZID="UTC+01:00":20261105T171500
-DTEND;TZID="UTC+01:00":20261105T184500
-DTSTAMP:20261102T071016Z
-UID:3f642c8f-85e4-81e6-b4ca-fa33634c3a01@notion2cal
-DESCRIPTION:Datum und Zeit sind in den Nutzerangaben im beigefügten Auftr
- ag ausdrücklich genannt. Raum aus der bereitgestellten Nutzer-Raumliste 
- übernommen. Der Gruppenwert im Altbestand war ein Prüfkommentar statt ei
- ner Gruppenbezeichnung\; Gruppe daher ungeklärt. Quelle verweist auf den 
- älteren Notion-Stundenplan-Eintrag und ist kein unabhängiger offizieller
-  Nachweis.
-URL:https://app.notion.com/p/Biochemische-Grundlagen-3f642c8f85e481e6b4caf
- a33634c3a01
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mathematisch-naturwissenschaftliche Grundlagen
 DTSTART;TZID="UTC+01:00":20261116T111500
 DTEND;TZID="UTC+01:00":20261116T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81e8-8c56-fcd2bc53189f@notion2cal
 DESCRIPTION:Gruppe D
 URL:https://app.notion.com/p/Mathematisch-naturwissenschaftliche-Grundlage
@@ -1999,7 +1832,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20261111T171500
 DTEND;TZID="UTC+01:00":20261111T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81ef-b64e-dd5950725ec4@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -2013,7 +1846,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die BWL
 DTSTART;TZID="UTC+01:00":20270112T151500
 DTEND;TZID="UTC+01:00":20270112T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81f0-acf0-e738ffd8a9a3@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -2027,7 +1860,7 @@ BEGIN:VEVENT
 SUMMARY:Öffentliches Recht
 DTSTART;TZID="UTC+01:00":20261214T171500
 DTEND;TZID="UTC+01:00":20261214T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81f3-9afc-e781028d6d9e@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -2043,7 +1876,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die BWL
 DTSTART;TZID="UTC+01:00":20270126T151500
 DTEND;TZID="UTC+01:00":20270126T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81f6-aa2c-caea222577a7@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -2057,7 +1890,7 @@ BEGIN:VEVENT
 SUMMARY:Einführung in die BWL
 DTSTART;TZID="UTC+01:00":20261117T151500
 DTEND;TZID="UTC+01:00":20261117T164500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81fa-9ef6-e46c9c465129@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -2071,7 +1904,7 @@ BEGIN:VEVENT
 SUMMARY:Bürgerliches Recht
 DTSTART;TZID="UTC+01:00":20270125T131500
 DTEND;TZID="UTC+01:00":20270125T144500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81fe-8024-eda0b6f6ede9@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -2085,7 +1918,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20261216T171500
 DTEND;TZID="UTC+01:00":20261216T184500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81fe-8b3d-e0f326d6d83b@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
@@ -2099,7 +1932,7 @@ BEGIN:VEVENT
 SUMMARY:Technik des Rechnungswesens
 DTSTART;TZID="UTC+01:00":20270112T111500
 DTEND;TZID="UTC+01:00":20270112T124500
-DTSTAMP:20261102T071016Z
+DTSTAMP:20261109T071604Z
 UID:3f642c8f-85e4-81ff-b28b-fb6dc21e672c@notion2cal
 DESCRIPTION:Termin/Gruppe aus der bisherigen Notion-Stundenplandatenbank 
  übernommen\; für diesen Termin ist kein Abgleich mit dem aktuellen offiz
